@@ -11,7 +11,7 @@ My name is Elizabeth and I'm a sofware engineer from Chicago. Here's some info a
 
 🌱 Interests:
 - Web development.
-- Creating content (YouTube/Twitch).
+- Creating content (video essays)
 
 💬 Reach me by email or LinkedIn! hello@hydrangea.sh | www.linkedin.com/in/hydrangea-sh
 
