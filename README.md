@@ -6,7 +6,7 @@ My name is Elizabeth and I'm a sofware engineer from Chicago. Here's some info a
 - **Software Engineer at Conifer Health** - Full-stack development on the Product team. [Remote. Present]
 
 ⚡ Past Work experience: <br>
-- **Software Engineer at X (formerly Twitter)** - Full-stack development on the Release Engineering team. [Remote. Jul. 2022]
+- **Software Engineer at Twitter** - Full-stack development on the Release Engineering team. [Remote. Jul. 2022]
 
 
 🌱 Interests:
