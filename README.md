@@ -3,7 +3,7 @@
 My name is Elizabeth and I'm a sofware engineer from Chicago. Here's some info about me!
 
 🌟 Work expierence: <br>
-- **Software Engineer II at Inside Real Estate** - Full-stack development on the BoomTown CRM team. [Remote. Present]
+- **Software Engineer II at Inside Real Estate** - Full-stack development on the BoomTown team. [Remote. Present]
 - **Software Engineer I at Conifer Health** - Full-stack development on the Product team. [Remote. Aug 2023]
 
 
