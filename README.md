@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elizabeth and I'm a sofware engineer from Chicago. Here's some info about me!
+My name is Elizabeth and I'm a software engineer from Chicago. Here's some info about me!
 
 🌟 Work expierence: <br>
 - **Software Engineer II at Inside Real Estate** - Full-stack development on the BoomTown team. [Remote. Present]
@@ -10,7 +10,7 @@ My name is Elizabeth and I'm a sofware engineer from Chicago. Here's some info a
 
 🌱 Interests:
 - Web development.
-- Creating content (video essays)
+- Creating video essays.
 
 💬 Reach me by email or LinkedIn! hello@hydrangea.sh | www.linkedin.com/in/hydrangea-sh
 
