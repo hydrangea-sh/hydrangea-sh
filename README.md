@@ -12,11 +12,7 @@ My name is Elizabeth and I'm a software engineer from Chicago. Here's some info 
 - Web development.
 - Creating video essays.
 
-💬 Reach me by email or LinkedIn! hello@hydrangea.sh | www.linkedin.com/in/hydrangea-sh
-
-📫 Visit my website: https://hydrangea.sh
-
-
+💬 Reach me at LinkedIn! | www.linkedin.com/in/elizabethkang8
 
 <!--
 **hydrangea-sh/hydrangea-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
