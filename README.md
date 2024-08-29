@@ -4,7 +4,7 @@ My name is Elizabeth and I'm a software engineer from Chicago. Here's some info 
 
 🌟 Work expierence:
 - **Software Engineer II at Inside Real Estate** - Full-stack development on the CRM team. [Remote. Present]
-- **Software Engineer I at Conifer Health** - Full-stack development on the Product team. [Remote. Aug 2023]
+- **Software Engineer I at Conifer Health** - Full-stack development on the Product team. [Remote. Jul. 2022]
 
 
 🌱 Interests:
