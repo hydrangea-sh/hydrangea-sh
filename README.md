@@ -9,7 +9,8 @@ My name is Elizabeth and I'm a software engineer from Chicago. Here's some info 
 
 🌱 Interests:
 - Web development.
-- Creating video essays.
+- Video essays.
+- Natural science.
 
 💬 Reach me at [Discord](https://www.discord.com/users/70905440065560576)!
 
